@@ -1,2 +1,2 @@
 
-Copyright (C) 2022 Aen
+Copyright (C) 2022 Aendur
